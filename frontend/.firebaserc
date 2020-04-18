@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-image-gallery-9598a": {
+      "hosting": {
+        "frontend": [
+          "angular-image-gallery-9598a"
+        ]
+      }
+    }
+  }
+}
